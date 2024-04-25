@@ -1,5 +1,5 @@
 # base image
-FROM node:18.20.2
+FROM node:18-alpine
 
 #metadata
 LABEL project="dmt-pocs"
